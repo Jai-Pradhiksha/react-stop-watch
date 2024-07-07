@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-image: url('./assets/wallpaper.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.img-fluid {
+  max-width: 50px;
+}
+
+.shadow {
+  background-color: white;
+  border-radius: 10px;
+  width: 300px; 
+}
+
+.display-4 {
+  margin-bottom: 0;
+}
