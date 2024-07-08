@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
-  base: "/react-stop-watch/"
+  // base: "/react-stop-watch/"
 })
