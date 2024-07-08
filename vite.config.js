@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()], 
     build: {
       outDir: 'dist',
-      base: "/react-stop-watch"
-    }  
+    },
+    base: "/react-stop-watch"
 })
